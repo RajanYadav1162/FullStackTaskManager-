@@ -1,7 +1,7 @@
 # FullStackTaskManager-
 A full stack task manager application built with node, react,mongodb,and mantine. 
 
-## Live Demo --> https://relaxed-payne-1e4c97.netlify.app/
+## Live Demo --> will upload soon
 
 # for running locally
 
